@@ -1,5 +1,4 @@
 # bse_stock
-
 A lib for fetching current  BSE Value for different Trading Companies
 
 usage:
